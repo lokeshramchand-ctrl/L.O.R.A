@@ -9,11 +9,6 @@
 
 ---
 
-## 🚀 Demo Video
-🎥 [Watch a Quick Demo](https://youtu.be/your-demo-link) – *See L.O.R.A in action!*
-
----
-
 ## ✨ Features
 
 - **Expense Tracker:** Track daily expenses and gain insights through easy-to-understand visualizations.
@@ -25,13 +20,6 @@
 
 ---
 
-## 💻 Screenshots
-
-| Home Dashboard        | Expense Tracking        | Loan Management         |
-| --------------------- | ----------------------- | ----------------------- |
-| ![Home](assets/home.png) | ![Expenses](assets/expenses.png) | ![Loans](assets/loans.png) |
-
----
 
 ## ⚙️ Technology Stack
 
@@ -48,9 +36,3 @@ To get a local copy up and running, follow these simple steps:
 ### Prerequisites
 - [Flutter](https://flutter.dev/docs/get-started/install) (v3.10 or higher)
 - Firebase account for backend setup
-
-### Installation
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/username/lora.git
-   cd lora
