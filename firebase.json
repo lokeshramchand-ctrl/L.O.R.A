@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"my-lora-app","appId":"1:1087613591822:android:09486646e71150d9abb75f","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"my-lora-app","configurations":{"android":"1:1087613591822:android:09486646e71150d9abb75f","ios":"1:1087613591822:ios:01ea0ab37b5d7937abb75f"}}}}}}
