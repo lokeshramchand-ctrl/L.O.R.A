@@ -3,7 +3,7 @@
 **An Expense Tracker & Microloans Platform built with Flutter**  
 *Built in a 24-hour hackathon!*
 
-[![Flutter](https://img.shields.io/badge/Flutter-v3.10-blue.svg?style=for-the-badge&logo=flutter)](https://flutter.dev) [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![Flutter](https://img.shields.io/badge/Flutter-v3.10-blue.svg?style=for-the-badge&logo=flutter)](https://flutter.dev)
 
 > **L.O.R.A** is a **modern, user-friendly** solution that simplifies expense tracking and microloan management. With an intuitive interface and essential financial features, L.O.R.A empowers users to record expenses, track loans, and make smarter financial decisions—all in one place!
 
