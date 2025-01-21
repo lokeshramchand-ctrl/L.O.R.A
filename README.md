@@ -20,7 +20,6 @@
 
 ---
 
-
 ## ⚙️ Technology Stack
 
 - **Frontend:** Flutter, Dart
