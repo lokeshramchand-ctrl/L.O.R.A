@@ -28,4 +28,4 @@ router.post(
   authController.login
 );
 
-module.exports = router;
+module.exports = router; // Ensure this line is present
