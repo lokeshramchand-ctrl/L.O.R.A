@@ -1,10 +1,10 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
-const authRoutes = require('./routes/authRoutes');
-const transactionRoutes = require('./routes/transactionRoutes');
-const categoryRoutes = require('./routes/categoryRoutes');
-const connectDB = require('./config/db');
+const authRoutes = require('../routes/authRoutes');
+const transactionRoutes = require('../routes/transactionRoutes');
+const categoryRoutes = require('../routes/categoryRoutes');
+const connectDB = require('../config/db');
 
 dotenv.config();
 connectDB();
